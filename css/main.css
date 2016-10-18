@@ -1,6 +1,9 @@
 /**************
 GENERAL
 ***************/
+body {
+  font-family: 'Abhaya Libre', serif;
+}
 
 #wrapper {
   max-width: 940px;
@@ -21,6 +24,44 @@ HEADING
 #logo {
   text-align: center;
   margin: 0;
+}
+
+h1 {
+  font-family: 'Wendy One', sans-serif;
+  margin: 15px 0;
+  font-size: 1.75em;
+  font-weight: normal;
+  line-height: 0.8em;
+}
+
+h2 {
+  font-size: 0.75em;
+  margin: -5px 0 0;
+  font-weight: normal;
+}
+
+
+
+/**************
+NAVIGATION
+***************/
+
+nav {
+  text-align: center;
+  paddin: 10px 0;
+  margin: 20px 0 0;
+}
+
+
+
+/**************
+FOOTER
+***************/
+footer {
+  font-size: 0.75em;
+  text-align: center;
+  padding-top: 50px;
+  color: #ccc;
 }
 
 
