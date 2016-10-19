@@ -99,6 +99,8 @@ footer {
   margin: 0 5px;
 }
 
+
+
 /**************
 PAGE PORTFOLIO
 ***************/
@@ -163,10 +165,11 @@ PAGE: ABOUT
   background-image: url('../img/mail.png');
 }
 
+
+
 /**************
 COLORS
 ***************/
-
 /* site body */
 body {
   background-color: #fff;
